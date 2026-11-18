@@ -143,3 +143,10 @@ silently produce a nearly-correct result is worse than one that stops and says w
 
 *These notes describe a design in progress. The harness is not published; this document is the
 public artifact.*
+
+---
+
+## License
+
+MIT. See [LICENSE](LICENSE).
+
